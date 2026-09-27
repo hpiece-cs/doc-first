@@ -1,0 +1,6 @@
+{
+  "name": "doc-first",
+  "version": "1.0.0",
+  "description": "Document-first workflow: docs/src-notes/ documentation and user review before any source code change, with an edit gate that blocks unapproved code edits (Claude Code, Gemini CLI, Copilot CLI, Codex CLI, OpenCode).",
+  "author": { "name": "hpiece" }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "doc-first",
+  "owner": {
+    "name": "hpiece"
+  },
+  "plugins": [
+    {
+      "name": "doc-first",
+      "source": "./",
+      "description": "Document-first workflow: docs/src-notes/ documentation and user review before any source code change, with an edit gate that blocks unapproved code edits (Claude Code, Gemini CLI, Copilot CLI, Codex CLI, OpenCode)."
+    }
+  ],
+  "description": "doc-first: document-first workflow skill with an edit gate for Claude Code and other AI CLIs"
+}

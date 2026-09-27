@@ -1,0 +1,6 @@
+{
+  "name": "doc-first",
+  "description": "Document-first implementation rules: enforces docs/src-notes/ documentation and user review before any source code changes, with approved-scope-only execution.",
+  "version": "1.0.0",
+  "contextFileName": "GEMINI.md"
+}
